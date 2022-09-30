@@ -16,19 +16,19 @@ function Contact() {
             <MdOutlineMail className='contact_option-icon'/>
             <h4>Email</h4>
             <h5>devcesarperez@gmail.com</h5>
-            <a href="mailto: devcesarperez@gmail.com" target={"_blank"}>Send Me a Message</a>
+            <a href="mailto: devcesarperez@gmail.com" target={"_blank"} rel="noreferrer">Send Me a Message</a>
           </article>
           <article className='contact_option'>
             <FaWhatsapp className='contact_option-icon'/>
             <h4>Whatsapp</h4>
             <h5>+58 412 611 9197</h5>
-            <a href="https://api.whatsapp.com/send?phone=+584126119197" target={"_blank"}>Let's Talk</a>
+            <a href="https://api.whatsapp.com/send?phone=+584126119197" target={"_blank"} rel="noreferrer">Let's Talk</a>
           </article>
           <article className='contact_option'>
             <RiMessengerLine className='contact_option-icon'/>
             <h4>Messenger</h4>
             <h5>César David P. Requena</h5>
-            <a href="http://m.me/Mr.Rquenita" target={"_blank"}>Let's Talk</a>
+            <a href="http://m.me/Mr.Rquenita" target={"_blank"} rel="noreferrer">Let's Talk</a>
           </article>
         </div>
         {/*END OF CONTACT OPTIONS*/}

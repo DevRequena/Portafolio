@@ -20,7 +20,7 @@ function Portafolio() {
             <h3>This is a portafolio Item Title</h3>
             <div className="portafolio_item-cta">
               <a href="https://github.com" className='btn'>GitHub</a>
-              <a href="https://notinerd.com" className='btn btn-primary' target="_blank">Live Demo</a>
+              <a href="https://notinerd.com" className='btn btn-primary' target="_blank" rel="noreferrer">Live Demo</a>
             </div>
           </article>
           <article className='portafolio_item'>
@@ -30,7 +30,7 @@ function Portafolio() {
             <h3>This is a portafolio Item Title</h3>
             <div className="portafolio_item-cta">
               <a href="https://github.com" className='btn'>GitHub</a>
-              <a href="https://notinerd.com" className='btn btn-primary' target="_blank">Live Demo</a>
+              <a href="https://notinerd.com" className='btn btn-primary' target="_blank" rel="noreferrer">Live Demo</a>
             </div>
           </article>
           <article className='portafolio_item'>
@@ -40,7 +40,7 @@ function Portafolio() {
             <h3>This is a portafolio Item Title</h3>
             <div className="portafolio_item-cta">
               <a href="https://github.com" className='btn'>GitHub</a>
-              <a href="https://notinerd.com" className='btn btn-primary' target="_blank">Live Demo</a>
+              <a href="https://notinerd.com" className='btn btn-primary' target="_blank" rel="noreferrer">Live Demo</a>
             </div>
           </article>
           <article className='portafolio_item'>
@@ -50,7 +50,7 @@ function Portafolio() {
             <h3>This is a portafolio Item Title</h3>
             <div className="portafolio_item-cta">
               <a href="https://github.com" className='btn'>GitHub</a>
-              <a href="https://notinerd.com" className='btn btn-primary' target="_blank">Live Demo</a>
+              <a href="https://notinerd.com" className='btn btn-primary' target="_blank" rel="noreferrer">Live Demo</a>
             </div>
           </article>
           <article className='portafolio_item'>
@@ -60,7 +60,7 @@ function Portafolio() {
             <h3>This is a portafolio Item Title</h3>
             <div className="portafolio_item-cta">
               <a href="https://github.com" className='btn'>GitHub</a>
-              <a href="https://notinerd.com" className='btn btn-primary' target="_blank">Live Demo</a>
+              <a href="https://notinerd.com" className='btn btn-primary' target="_blank" rel="noreferrer">Live Demo</a>
             </div>
           </article>
 
